@@ -1,0 +1,11 @@
+C:\Задание\RunLib\bin\Debug\RunLib.exe.config
+C:\Задание\RunLib\bin\Debug\RunLib.exe
+C:\Задание\RunLib\bin\Debug\RunLib.pdb
+C:\Задание\RunLib\bin\Debug\CalculateArea.dll
+C:\Задание\RunLib\bin\Debug\CalculateArea.pdb
+C:\Задание\RunLib\obj\Debug\RunLib.csproj.AssemblyReference.cache
+C:\Задание\RunLib\obj\Debug\RunLib.csproj.SuggestedBindingRedirects.cache
+C:\Задание\RunLib\obj\Debug\RunLib.csproj.CoreCompileInputs.cache
+C:\Задание\RunLib\obj\Debug\RunLib.csproj.CopyComplete
+C:\Задание\RunLib\obj\Debug\RunLib.exe
+C:\Задание\RunLib\obj\Debug\RunLib.pdb
